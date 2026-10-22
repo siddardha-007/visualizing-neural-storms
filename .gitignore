@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings and workspace data
+.vscode/
+
+# Large Data files
+*.xlsx
+*.zip
+*.csv
+online_retail_II.xlsx
+
+# Generated outputs
+outputs/figures/*
+outputs/reports/*
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
